@@ -3324,6 +3324,11 @@ postcss@^8.4.19:
     picocolors "^1.0.0"
     source-map-js "^1.0.2"
 
+preflight@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/preflight/-/preflight-0.2.0.tgz#e36cc22513253040d978e54e0700b45cbcb4d3f6"
+  integrity sha512-Q+5uMK7drrXUnqDESNog3NzrBgvOgau+Kmz82YkEzdtkKD7H/yQjFUvdfhhpjoKs0vBa8K66PFxugIQBchAQEw==
+
 prelude-ls@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
